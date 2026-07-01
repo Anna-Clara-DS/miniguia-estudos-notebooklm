@@ -18,11 +18,11 @@ O objetivo deste material é servir como um roteiro estratégico para profission
 
 Para a construção deste caderno no **NotebookLM**, utilizei as seguintes fontes abertas e documentos estratégicos:
 
-1.  **Guia de Recomendações Fatec:** Fundamentos de computação e matemática aplicada [1, 2].
-2.  **The Complete AI Engineering Roadmap 2025:** Passo a passo técnico para engenharia de software e IA [3].
-3.  **Cientista de Dados vs. Engenheiro de IA (DSA):** Diferenciação de papéis e responsabilidades [4, 5].
-4.  **Relatório Robert Half 2026:** Tendências salariais e habilidades mais difíceis de encontrar [6, 7].
-5.  **170 Projetos de Data Science com Python:** Acervo para construção de portfólio prático [8, 9].
+1.  **Guia de Recomendações Fatec:** [Fundamentos de computação e matemática aplicada.](https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/247/2024/10/GUIA.pdf)
+2.  **The Complete AI Engineering Roadmap 2025:** [Passo a passo técnico para engenharia de software e IA.](https://aiengineerinsights.com/assets/ai-roadmap.CDNwK45O.pdf)
+3.  **Cientista de Dados vs. Engenheiro de IA (DSA):** [Diferenciação de papéis e responsabilidades.](https://blog.dsacademy.com.br/cientista-de-dados-vs-engenheiro-de-ia-qual-carreira-escolher-em-2026/)
+4.  **Relatório Robert Half 2026:** [Tendências salariais e habilidades mais difíceis de encontrar.](https://www.e-setorial.com.br/blog/229-170-projetos-de-data-science-e-machine-learning-com-python-resolvidos-e-explicados)
+5.  **170 Projetos de Data Science com Python:** [Acervo para construção de portfólio prático.](https://www.e-setorial.com.br/blog/229-170-projetos-de-data-science-e-machine-learning-com-python-resolvidos-e-explicados)
 
 ---
 
