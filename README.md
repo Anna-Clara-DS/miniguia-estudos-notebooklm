@@ -4,6 +4,10 @@
 
 ---
 
+[Mapa Mental](https://notebooklm.google.com/notebook/ab4c5cfa-1e2e-45a4-85a2-4a32368cfa21/artifact/e1fbed4a-cd46-47b9-b0b1-aa12c42b5c20?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)
+
+---
+
 ## 📖 1. Contexto e Objetivos
 
 O objetivo deste material é servir como um roteiro estratégico para profissionais que desejam ingressar ou se especializar nas áreas de **Ciência de Dados** e **Engenharia de IA**, focando nas exigências do mercado para 2026.
